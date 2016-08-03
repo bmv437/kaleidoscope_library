@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DWM1000
+D Decawave DWM1000 UWB Module
+K Decawave,DWM1000,UWB,DW1000
+$ENDCMP
+#
+$CMP RFM69W
+D HOPE RF RFM69W
+K RFM69W,radio
+$ENDCMP
+#
+#End Doc Library
