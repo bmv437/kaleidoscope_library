@@ -1,0 +1,4 @@
+[submodule "bin/kicad-library-utils"]
+	path = bin/kicad-library-utils
+	url = git@github.com:bmv437/kicad-library-utils.git
+	branch = nonzero-exit
