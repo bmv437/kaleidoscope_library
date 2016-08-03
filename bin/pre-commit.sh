@@ -1,6 +1,4 @@
-#!/bin/bash
-DIR=`dirname $0`
+#!/bin/sh
+MY_PATH=`dirname $0`
 
-./${DIR}/kicad-library-utils/schlib/checklib.py ${DIR}/../kaleidoscope.lib
-
-echo $?
+${MY_PATH}/tests.sh
