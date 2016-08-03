@@ -2,12 +2,20 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP DWM1000
 D Decawave DWM1000 UWB Module
-K Decawave,DWM1000,UWB,DW1000
+K Decawave DWM1000 UWB DW1000
+F http://www.decawave.com/sites/default/files/resources/dwm1000-datasheet-v1.3.pdf
+$ENDCMP
+#
+$CMP MDBT40
+D RAYTAC MDBT40 BLE Module
+K bluetooth ble mdbt40 raytac bluefruit
+F http://www.raytac.com/download/MDBT40/MDBT40%20spec-Version%20A4.pdf
 $ENDCMP
 #
 $CMP RFM69W
 D HOPE RF RFM69W
-K RFM69W,radio
+K RFM69W radio
+F http://www.hoperf.com/upload/rf/RFM69W-V1.3.pdf
 $ENDCMP
 #
 #End Doc Library
